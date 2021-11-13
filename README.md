@@ -18,16 +18,14 @@ SO THAT I can organize and plan my business
 
 ## Installation
 
-To run this app, you must download the repo and run npm install to be able to install the npm package dependencies in the package.json.
-
+To run this app, you must download the repo and run npm install to be able to install the npm package dependencies in the package.json. You will also need to use MySQL and finally run the employee management system by typing node server.js
+<br />
 - npm install --save mysql2
 - npm install inquirer
 - npm install console.table --save
-  You will alson need to use MySQL
-- mysql -u root -p
-- source schema.sql
-- source seeds.sql
-  Now you can run by typing node server.js
+* mysql -u root -p
+* source schema.sql
+* source seeds.sql
 
 ## Demo Link
 
