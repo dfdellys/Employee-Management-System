@@ -10,7 +10,7 @@ const connection = mysql.createConnection({
   // Your MySQL username
   user: 'root',
   // Your MySQL password
-  password: 'lapeach',
+  password: '',
   database: 'employeetracker_db',
 });
 
